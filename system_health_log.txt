@@ -1,0 +1,68 @@
+[2025-11-12 21:19:31] ========== SYSTEM HEALTH MONITOR ==========
+[2025-11-12 21:19:31] System: Windows
+[2025-11-12 21:19:31] Node Name: LAPTOP-G143S96B
+[2025-11-12 21:19:31] Release: 10
+[2025-11-12 21:19:31] Version: 10.0.26200
+[2025-11-12 21:19:31] Machine: AMD64
+[2025-11-12 21:19:31] Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+[2025-11-12 21:19:31] ==========================================
+[2025-11-12 21:19:31] 
+📊 Checking system health...
+[2025-11-12 21:19:32] CPU Usage: 31.7% — ✅ Normal
+[2025-11-12 21:19:32] Memory Usage: 91.5% (7.14 GB used) — ⚠️ High Memory Usage
+[2025-11-12 21:19:32] Disk Usage: 77.3% (183.24 GB used) — ✅ Normal
+[2025-11-12 21:19:32] Top 5 Processes by CPU Usage:
+[2025-11-12 21:19:33]    PID=0 | System Idle Process | CPU=0.0%
+[2025-11-12 21:19:33]    PID=4 | System | CPU=0.0%
+[2025-11-12 21:19:33]    PID=140 |  | CPU=0.0%
+[2025-11-12 21:19:33]    PID=184 | Registry | CPU=0.0%
+[2025-11-12 21:19:33]    PID=652 | svchost.exe | CPU=0.0%
+[2025-11-12 21:19:33] --------------------------------------------------
+[2025-11-12 21:19:33] 🚨 ALERT: One or more thresholds exceeded! Please investigate.
+
+[2025-11-12 21:19:38] 
+📊 Checking system health...
+[2025-11-12 21:19:39] CPU Usage: 34.2% — ✅ Normal
+[2025-11-12 21:19:39] Memory Usage: 91.0% (7.11 GB used) — ⚠️ High Memory Usage
+[2025-11-12 21:19:39] Disk Usage: 77.3% (183.26 GB used) — ✅ Normal
+[2025-11-12 21:19:39] Top 5 Processes by CPU Usage:
+[2025-11-12 21:19:40]    PID=0 | System Idle Process | CPU=539.3%
+[2025-11-12 21:19:40]    PID=14380 | SearchIndexer.exe | CPU=98.0%
+[2025-11-12 21:19:41]    PID=6980 | explorer.exe | CPU=26.8%
+[2025-11-12 21:19:41]    PID=4 | System | CPU=20.1%
+[2025-11-12 21:19:41]    PID=30316 | python.exe | CPU=15.6%
+[2025-11-12 21:19:41] --------------------------------------------------
+[2025-11-12 21:19:41] 🚨 ALERT: One or more thresholds exceeded! Please investigate.
+
+[2025-11-12 21:19:46] 
+📊 Checking system health...
+[2025-11-12 21:19:47] CPU Usage: 50.6% — ✅ Normal
+[2025-11-12 21:19:47] Memory Usage: 91.2% (7.11 GB used) — ⚠️ High Memory Usage
+[2025-11-12 21:19:47] Disk Usage: 77.3% (183.27 GB used) — ✅ Normal
+[2025-11-12 21:19:47] Top 5 Processes by CPU Usage:
+[2025-11-12 21:19:48]    PID=0 | System Idle Process | CPU=415.4%
+[2025-11-12 21:19:48]    PID=12236 | brave.exe | CPU=104.6%
+[2025-11-12 21:19:48]    PID=22312 | chrome.exe | CPU=58.5%
+[2025-11-12 21:19:48]    PID=14380 | SearchIndexer.exe | CPU=54.0%
+[2025-11-12 21:19:48]    PID=6980 | explorer.exe | CPU=31.5%
+[2025-11-12 21:19:48] --------------------------------------------------
+[2025-11-12 21:19:48] 🚨 ALERT: One or more thresholds exceeded! Please investigate.
+
+[2025-11-12 21:19:53] 
+📊 Checking system health...
+[2025-11-12 21:19:54] CPU Usage: 13.7% — ✅ Normal
+[2025-11-12 21:19:54] Memory Usage: 92.2% (7.2 GB used) — ⚠️ High Memory Usage
+[2025-11-12 21:19:54] Disk Usage: 77.3% (183.27 GB used) — ✅ Normal
+[2025-11-12 21:19:54] Top 5 Processes by CPU Usage:
+[2025-11-12 21:19:55]    PID=0 | System Idle Process | CPU=464.6%
+[2025-11-12 21:19:55]    PID=22312 | chrome.exe | CPU=80.0%
+[2025-11-12 21:19:55]    PID=12236 | brave.exe | CPU=69.4%
+[2025-11-12 21:19:55]    PID=6980 | explorer.exe | CPU=36.4%
+[2025-11-12 21:19:55]    PID=4 | System | CPU=14.4%
+[2025-11-12 21:19:55] --------------------------------------------------
+[2025-11-12 21:19:55] 🚨 ALERT: One or more thresholds exceeded! Please investigate.
+
+[2025-11-12 21:19:56] 
+🛑 Monitoring stopped by user.
+[2025-11-12 21:19:56] ==========================================
+

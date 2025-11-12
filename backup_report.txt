@@ -1,0 +1,14 @@
+[2025-11-12 21:51:07] 🚀 Automated Backup Process Initiated
+[2025-11-12 21:51:07] Timestamp: 20251112_215107
+[2025-11-12 21:51:07] 📦 Starting backup of 'C:\Users\Pratyush\Documents\ImportantData'...
+[2025-11-12 21:51:07] ❌ Failed to create backup: [WinError 2] The system cannot find the file specified: 'C:\\Users\\Pratyush\\Documents\\ImportantData'
+[2025-11-12 21:51:07] 
+================ BACKUP SUMMARY ================
+[2025-11-12 21:51:07] Source Directory: C:\Users\Pratyush\Documents\ImportantData
+[2025-11-12 21:51:07] Backup File: C:\Users\Pratyush\Backups\backup_20251112_215107.tar.gz
+[2025-11-12 21:51:07] Remote Upload: Disabled
+[2025-11-12 21:51:07] Local Backup Status: ❌ Failed
+[2025-11-12 21:51:07] ===============================================
+
+[2025-11-12 21:51:07] ⚠️ Backup process encountered issues.
+[2025-11-12 21:51:07] 📁 Detailed report saved to 'backup_report.txt'
